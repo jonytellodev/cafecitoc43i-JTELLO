@@ -1,0 +1,20 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombreProducto": "Caramel Mocchiato",
+      "precio": 20.0,
+      "categoria": "bebida caliente",
+      "imagen": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descripcion": "algun cafecito chalchalero"
+    },
+    {
+      "id": 2,
+      "nombreProducto": "Te de boldo",
+      "precio": 75.0,
+      "categoria": "bebida caliente",
+      "imagen": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "descripcion": "algun boldito para despues del asado"
+    }
+  ]
+}
