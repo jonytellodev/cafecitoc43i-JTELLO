@@ -32,6 +32,12 @@ const CrearProducto = () => {
           />
       
         </Form.Group>
+        
+        <Form.Group className="mb-3" controlId="formDescripción">
+          <Form.Label>Descripción*</Form.Label>
+          <Form.Control as="textarea" placeholder="Escriba la descripción del producto" style={{height:"80px", resize:"none"}} />
+        </Form.Group>
+
         <Form.Group className="mb-3" controlId="formPrecio">
           <Form.Label>Categoria*</Form.Label>
           <Form.Select
